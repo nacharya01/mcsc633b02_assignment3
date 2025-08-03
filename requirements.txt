@@ -1,0 +1,8 @@
+django==5.2.4
+chatterbot==1.2.7
+chatterbot_corpus
+spacy==3.8.7
+pyyaml
+
+
+
